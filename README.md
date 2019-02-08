@@ -21,7 +21,7 @@ _________________________________________
 
 CONTRIBUTORS
 
-Nina Tanneberger – Designer, Developer, Marketor
+Nina Tanneberger – Designer, Developer, Marketor, Project Manager
 
 Robert Haubt - Project Facilitator
 
