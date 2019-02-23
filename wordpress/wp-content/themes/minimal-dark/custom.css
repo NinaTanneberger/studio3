@@ -1,0 +1,190 @@
+/**
+ * Stylesheet for custom styles - This will be useful to override styles from parent theme.
+ *
+ */
+
+
+body,
+button,
+input,
+select,
+optgroup,
+textarea,
+a,
+.menu-panel .site-title a,
+.menu-panel .site-description,
+.widget-title,
+.contact-icons .thememattic-icon {
+    color: #fff;
+}
+
+a:hover,
+a:focus {
+    color: #ff2222;
+}
+
+body,
+.nav-panel,
+.site-footer {
+    background: #000;
+}
+
+.menu-panel,
+#secondary{
+    background: #060606;
+}
+
+body .trigger-icon .icon-bar,
+body .main-navigation .menu li a i:before,
+body .main-navigation .menu li a i:after,
+body .widget-title:before {
+    background: #fff;
+}
+
+.site-content .site-header-two {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.site-content .site-header-two .header-image-overlay {
+    background: #000;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    filter: alpha(opacity=65);
+    opacity: .65;
+}
+
+.site-content .site-header-two .site-branding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.site-content .site-header-two .site-title a,
+.site-content .site-header-two .site-description {
+    color: #fff;
+}
+
+.site-content .site-header-two .site-branding .site-description {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.site-content .site-header-two .site-branding .site-title {
+    text-transform: uppercase;
+    letter-spacing: 0;
+}
+
+@media only screen and (min-width: 768px) {
+    .site-content .site-header-two .site-branding .site-title {
+        font-size: 4.6875em;
+        line-height: 1.0731707317;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .site-content .site-header-two .site-branding .site-title {
+        font-size: 6.6875em;
+    }
+}
+
+.site-content .site-header-two .site-description {
+    position: relative;
+}
+
+.site-content .site-header-two .site-description span {
+    background: #000;
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 10px 30px;
+    position: relative;
+    z-index: 1;
+}
+
+.site-content .site-header-two .site-description:after {
+    content: "";
+    height: 4px;
+    background: #040404;
+    position: absolute;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+body .entry-title {
+    letter-spacing: 1px;
+}
+
+body .masonry-grid.masonry-col article .tm-archive-wrapper {
+    background: #101010;
+    padding: 30px 20px;
+}
+
+@media only screen and (min-width: 1600px) {
+    body .masonry-grid {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+
+    body .masonry-grid.masonry-col article {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+.cat-links, .tags-links, .posted-on, .byline, .comments-link, .edit-link, .entry-meta-cat a {
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+@media screen and (max-width: 991px) {
+    body .aside-menu .menu-panel {
+        left: -300px !important;
+    }
+
+    body #page.site .site-content,
+    body .aside-panel .menu-mobile {
+        left: 0;
+    }
+
+    body.extended-menu .aside-menu .menu-panel {
+        left: 0 !important;
+    }
+
+    body.extended-menu #page.site .site-content,
+    body.extended-menu .aside-panel .menu-mobile {
+        left: 250px;
+    }
+}
+@media screen and (max-width: 991px) {
+    body .site .masonry-grid.masonry-col article {
+        width: 50% !important;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    body .site .masonry-grid.masonry-col article {
+        width: 100% !important;
+    }
+}
+
+.inner-banner, .thememattic-breadcrumb, .trigger-nav, body .site #primary, body .site #secondary, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea, .widget.widget_minimal_grid_tab_posts_widget .full-item, .entry-meta, .main-navigation .menu .menu-mobile li, .page-numbers, .author-info .author-social > a,
+.sidebar-bg .widget_recent_comments li, .sidebar-bg .widget_pages li a, .sidebar-bg .widget_minimal_grid_social_menu_widget li a, .sidebar-bg .widget_archive li a, .sidebar-bg .widget_meta li a, .sidebar-bg .widget_categories li a, .sidebar-bg .widget_minimal_grid_social_menu_widget li a, .sidebar-bg .widget_recent_entries li a,
+#related-articles .related-title, .comments-title, .comments-area .comment-respond .comment-reply-title{
+    border-color: #272727 !important;
+}
+
+.single .site .entry-footer:after{
+    background: #272727;
+}
