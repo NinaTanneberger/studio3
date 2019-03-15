@@ -1,0 +1,28 @@
+/*
+Theme Name:   astra child theme
+Description:  Write here a brief description about your child-theme
+Author:       admin
+Author URL:   Write here the author's blog or website url
+Template:     astra
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  astra-child
+*/
+li.menu-item {
+font-family: 'Rock Salt', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: normal;
+
+padding: 20px;
+
+text-shadow: 0px 0px 10px #FF008A, 0px 0px 4px #FF008A;
+
+color: #FFFFFF;
+}
+
+img.main-logo {
+  box-shadow: 0px 0px 10px #FF008A, 0px 0px 10px #FF008A, inset 0px 4px 10px rgba(255, 0, 138, 0.31);
+}

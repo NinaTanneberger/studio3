@@ -1,0 +1,592 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.2
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:25:48 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 09:25:50 UTC
+
+---
+
+2. Importing "XML"  - 09:25:53 UTC
+Imported "Uncategorized" (category)
+Term 1 remapped to 16
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 24 remapped to 17
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 25 remapped to 18
+Imported "Cactus" (product_cat)
+Term 22 remapped to 19
+Imported "Plants" (product_cat)
+Term 23 remapped to 20
+Imported "Main Menu" (nav_menu)
+Term 21 remapped to 21
+Imported "
+				cactus4-free-img		" (Media)
+Post 68 remapped to 68
+Imported "
+				cactus2-free-img		" (Media)
+Post 69 remapped to 69
+Imported "
+				cactus1-free-img		" (Media)
+Post 70 remapped to 70
+Imported "
+				cactus3-free-img		" (Media)
+Post 71 remapped to 71
+Imported "
+				cactus5-free-img		" (Media)
+Post 72 remapped to 72
+Imported "
+				cactus6-free-img		" (Media)
+Post 73 remapped to 73
+Imported "
+				plant1-free-img		" (Media)
+Post 74 remapped to 74
+Imported "
+				plant2-free-img		" (Media)
+Post 75 remapped to 75
+Imported "
+				plant3-free-img		" (Media)
+Post 76 remapped to 76
+Imported "
+				plant4-free-img		" (Media)
+Post 77 remapped to 77
+Imported "
+				plant5-free-img		" (Media)
+Post 78 remapped to 78
+Imported "
+				plant6-free-img		" (Media)
+Post 79 remapped to 79
+Imported "
+				quote-free-img		" (Media)
+Post 89 remapped to 89
+Imported "
+				user1-free-img		" (Media)
+Post 92 remapped to 92
+Imported "
+				user2-free-img		" (Media)
+Post 93 remapped to 93
+Imported "
+				user3-free-img		" (Media)
+Post 94 remapped to 94
+Imported "
+				home-bg2-free-img		" (Media)
+Post 112 remapped to 112
+Imported "
+				plant1-free-img		" (Media)
+Post 125 remapped to 125
+Imported "
+				plant2-free-img		" (Media)
+Post 127 remapped to 127
+Imported "
+				about-bg-free-img		" (Media)
+Post 131 remapped to 131
+Imported "
+				HOME		" (Navigation Menu Item)
+Post 16 remapped to 16
+Processing menu item post_type
+Imported "
+						" (Navigation Menu Item)
+Post 18 remapped to 18
+Processing menu item post_type
+Imported "
+				bg3-free-img		" (Media)
+Post 135 remapped to 135
+Imported "
+				bg4-free-img		" (Media)
+Post 140 remapped to 140
+Imported "
+				mate1-free-img		" (Media)
+Post 144 remapped to 144
+Imported "
+				mate2-free-img		" (Media)
+Post 145 remapped to 145
+Imported "
+				mate3-free-img		" (Media)
+Post 146 remapped to 146
+Imported "
+				cat1-free-img		" (Media)
+Post 189 remapped to 189
+Imported "
+				contact-bg-free-img		" (Media)
+Post 263 remapped to 263
+Imported "
+				cat2-free-img		" (Media)
+Post 276 remapped to 276
+Imported "
+				cat3-free-img		" (Media)
+Post 277 remapped to 277
+Imported "
+				demo-screenshot-free-img		" (Media)
+Post 284 remapped to 284
+Imported "
+				Site Footer		" (Elementor Header Footer)
+Post 285 remapped to 285
+Imported "
+				floral-divider-free-img		" (Media)
+Post 311 remapped to 311
+Imported "
+				floral1-divider-free-img		" (Media)
+Post 312 remapped to 312
+Imported "
+				logo@2x-free-img		" (Media)
+Post 330 remapped to 330
+Imported "
+				logo-free-img		" (Media)
+Post 331 remapped to 331
+Imported "
+				logo1@2x-free-img		" (Media)
+Post 338 remapped to 338
+Imported "
+				logo1-free-img		" (Media)
+Post 339 remapped to 339
+Imported "
+				plant-store-fb		" (Media)
+Post 466 remapped to 466
+Imported "
+				Cart		" (Page)
+Post 6 remapped to 467
+Imported "
+				Checkout		" (Page)
+Post 7 remapped to 468
+Imported "
+				My account		" (Page)
+Post 8 remapped to 469
+Imported "
+				Home		" (Page)
+Post 9 remapped to 470
+Imported "
+				About Us		" (Page)
+Post 10 remapped to 471
+Imported "
+				Store		" (Page)
+Post 11 remapped to 11
+Imported "
+				Contact Us		" (Page)
+Post 12 remapped to 12
+Imported "
+				STORE		" (Navigation Menu Item)
+Post 19 remapped to 19
+Processing menu item post_type
+Menu item 11 mapped to 11
+Imported "
+				MY ACCOUNT		" (Navigation Menu Item)
+Post 21 remapped to 21
+Processing menu item post_type
+Menu item 8 mapped to 469
+Imported "
+				Old Lady Cactus		" (Product)
+Post 45 remapped to 45
+Imported "
+				Mini San Pedro Cactus		" (Product)
+Post 51 remapped to 51
+Imported "
+				Cleistocactus		" (Product)
+Post 52 remapped to 52
+Imported "
+				Ball Cactus		" (Product)
+Post 53 remapped to 53
+Imported "
+				Star Cactus		" (Product)
+Post 80 remapped to 80
+Imported "
+				Mini Astrophytum		" (Product)
+Post 81 remapped to 81
+Imported "
+				Rattle Snake Tail		" (Product)
+Post 82 remapped to 82
+Imported "
+				PLANTS		" (Navigation Menu Item)
+Post 214 remapped to 214
+Processing menu item taxonomy
+Menu item 23 mapped to 20
+Imported "
+				CACTUS		" (Navigation Menu Item)
+Post 215 remapped to 215
+Processing menu item taxonomy
+Menu item 22 mapped to 19
+Imported "
+				CONTACT US		" (Navigation Menu Item)
+Post 455 remapped to 455
+Processing menu item post_type
+Menu item 12 mapped to 12
+Imported "
+				ABOUT US		" (Navigation Menu Item)
+Post 456 remapped to 456
+Processing menu item post_type
+Menu item 10 mapped to 471
+Imported "
+				Piorro Quisquam		" (Product)
+Post 83 remapped to 83
+Imported "
+				Green Soil Lotus		" (Product)
+Post 84 remapped to 84
+Imported "
+				Boncellensis Secullant		" (Product)
+Post 85 remapped to 85
+Imported "
+				Aluminum Plant		" (Product)
+Post 86 remapped to 86
+Imported "
+				Money Plant		" (Product)
+Post 87 remapped to 87
+Imported "
+				Order – February 6, 2019 @ 06:39 AM		" (Order)
+Post 470 remapped to 472
+Imported "
+				Order – February 11, 2019 @ 12:14 PM		" (Order)
+Post 475 remapped to 475
+Imported "
+				Order – February 17, 2019 @ 06:06 AM		" (Order)
+Post 478 remapped to 478
+Imported "
+				Order – February 21, 2019 @ 11:13 AM		" (Order)
+Post 481 remapped to 481
+Imported "
+				Order – February 26, 2019 @ 12:19 AM		" (Order)
+Post 483 remapped to 483
+Imported "
+				Order – March 1, 2019 @ 10:28 AM		" (Order)
+Post 484 remapped to 484
+Imported "
+				Order – March 7, 2019 @ 09:19 AM		" (Order)
+Post 487 remapped to 487
+Running post-processing for post 68
+Could not find the author for "cactus4-free-img" (post #68)
+Post 68 was imported with author "harshadd", but could not be found
+Running post-processing for post 69
+Could not find the author for "cactus2-free-img" (post #69)
+Post 69 was imported with author "harshadd", but could not be found
+Running post-processing for post 70
+Could not find the author for "cactus1-free-img" (post #70)
+Post 70 was imported with author "harshadd", but could not be found
+Running post-processing for post 71
+Could not find the author for "cactus3-free-img" (post #71)
+Post 71 was imported with author "harshadd", but could not be found
+Running post-processing for post 72
+Could not find the author for "cactus5-free-img" (post #72)
+Post 72 was imported with author "harshadd", but could not be found
+Post 72 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "cactus6-free-img" (post #73)
+Post 73 was imported with author "harshadd", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "plant1-free-img" (post #74)
+Post 74 was imported with author "harshadd", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "plant2-free-img" (post #75)
+Post 75 was imported with author "harshadd", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 76
+Could not find the author for "plant3-free-img" (post #76)
+Post 76 was imported with author "harshadd", but could not be found
+Post 76 was marked for post-processing, but none was required.
+Running post-processing for post 77
+Could not find the author for "plant4-free-img" (post #77)
+Post 77 was imported with author "harshadd", but could not be found
+Post 77 was marked for post-processing, but none was required.
+Running post-processing for post 78
+Could not find the author for "plant5-free-img" (post #78)
+Post 78 was imported with author "harshadd", but could not be found
+Post 78 was marked for post-processing, but none was required.
+Running post-processing for post 79
+Could not find the author for "plant6-free-img" (post #79)
+Post 79 was imported with author "harshadd", but could not be found
+Post 79 was marked for post-processing, but none was required.
+Running post-processing for post 89
+Could not find the author for "quote-free-img" (post #89)
+Post 89 was imported with author "harshadd", but could not be found
+Running post-processing for post 92
+Could not find the author for "user1-free-img" (post #92)
+Post 92 was imported with author "harshadd", but could not be found
+Running post-processing for post 93
+Could not find the author for "user2-free-img" (post #93)
+Post 93 was imported with author "harshadd", but could not be found
+Running post-processing for post 94
+Could not find the author for "user3-free-img" (post #94)
+Post 94 was imported with author "harshadd", but could not be found
+Running post-processing for post 112
+Could not find the author for "home-bg2-free-img" (post #112)
+Post 112 was imported with author "harshadd", but could not be found
+Running post-processing for post 125
+Could not find the author for "plant1-free-img" (post #125)
+Post 125 was imported with author "harshadd", but could not be found
+Running post-processing for post 127
+Could not find the author for "plant2-free-img" (post #127)
+Post 127 was imported with author "harshadd", but could not be found
+Running post-processing for post 131
+Could not find the author for "about-bg-free-img" (post #131)
+Post 131 was imported with author "harshadd", but could not be found
+Running post-processing for post 16
+Could not find the author for "HOME" (post #16)
+Post 16 was imported with author "harshadd", but could not be found
+Post 16 was marked for post-processing, but none was required.
+Running post-processing for post 18
+Could not find the author for "" (post #18)
+Post 18 was imported with author "harshadd", but could not be found
+Post 18 was marked for post-processing, but none was required.
+Running post-processing for post 135
+Could not find the author for "bg3-free-img" (post #135)
+Post 135 was imported with author "harshadd", but could not be found
+Running post-processing for post 140
+Could not find the author for "bg4-free-img" (post #140)
+Post 140 was imported with author "harshadd", but could not be found
+Running post-processing for post 144
+Could not find the author for "mate1-free-img" (post #144)
+Post 144 was imported with author "harshadd", but could not be found
+Running post-processing for post 145
+Could not find the author for "mate2-free-img" (post #145)
+Post 145 was imported with author "harshadd", but could not be found
+Running post-processing for post 146
+Could not find the author for "mate3-free-img" (post #146)
+Post 146 was imported with author "harshadd", but could not be found
+Running post-processing for post 189
+Could not find the author for "cat1-free-img" (post #189)
+Post 189 was imported with author "harshadd", but could not be found
+Running post-processing for post 263
+Could not find the author for "contact-bg-free-img" (post #263)
+Post 263 was imported with author "harshadd", but could not be found
+Running post-processing for post 276
+Could not find the author for "cat2-free-img" (post #276)
+Post 276 was imported with author "harshadd", but could not be found
+Running post-processing for post 277
+Could not find the author for "cat3-free-img" (post #277)
+Post 277 was imported with author "harshadd", but could not be found
+Running post-processing for post 284
+Could not find the author for "demo-screenshot-free-img" (post #284)
+Post 284 was imported with author "harshadd", but could not be found
+Post 284 was marked for post-processing, but none was required.
+Running post-processing for post 285
+Could not find the author for "Site Footer" (post #285)
+Post 285 was imported with author "harshadd", but could not be found
+Post 285 was marked for post-processing, but none was required.
+Running post-processing for post 311
+Could not find the author for "floral-divider-free-img" (post #311)
+Post 311 was imported with author "harshadd", but could not be found
+Running post-processing for post 312
+Could not find the author for "floral1-divider-free-img" (post #312)
+Post 312 was imported with author "harshadd", but could not be found
+Running post-processing for post 330
+Could not find the author for "logo@2x-free-img" (post #330)
+Post 330 was imported with author "harshadd", but could not be found
+Post 330 was marked for post-processing, but none was required.
+Running post-processing for post 331
+Could not find the author for "logo-free-img" (post #331)
+Post 331 was imported with author "harshadd", but could not be found
+Post 331 was marked for post-processing, but none was required.
+Running post-processing for post 338
+Could not find the author for "logo1@2x-free-img" (post #338)
+Post 338 was imported with author "harshadd", but could not be found
+Post 338 was marked for post-processing, but none was required.
+Running post-processing for post 339
+Could not find the author for "logo1-free-img" (post #339)
+Post 339 was imported with author "harshadd", but could not be found
+Post 339 was marked for post-processing, but none was required.
+Running post-processing for post 466
+Could not find the author for "plant-store-fb" (post #466)
+Post 466 was imported with author "satishk", but could not be found
+Post 466 was marked for post-processing, but none was required.
+Running post-processing for post 467
+Could not find the author for "Cart" (post #467)
+Post 467 was imported with author "brainstormforce", but could not be found
+Post 467 was marked for post-processing, but none was required.
+Running post-processing for post 468
+Could not find the author for "Checkout" (post #468)
+Post 468 was imported with author "brainstormforce", but could not be found
+Post 468 was marked for post-processing, but none was required.
+Running post-processing for post 469
+Could not find the author for "My account" (post #469)
+Post 469 was imported with author "brainstormforce", but could not be found
+Post 469 was marked for post-processing, but none was required.
+Running post-processing for post 470
+Could not find the author for "Home" (post #470)
+Post 470 was imported with author "harshadd", but could not be found
+Post 470 was marked for post-processing, but none was required.
+Running post-processing for post 471
+Could not find the author for "About Us" (post #471)
+Post 471 was imported with author "harshadd", but could not be found
+Post 471 was marked for post-processing, but none was required.
+Running post-processing for post 11
+Could not find the author for "Store" (post #11)
+Post 11 was imported with author "harshadd", but could not be found
+Post 11 was marked for post-processing, but none was required.
+Running post-processing for post 12
+Could not find the author for "Contact Us" (post #12)
+Post 12 was imported with author "harshadd", but could not be found
+Post 12 was marked for post-processing, but none was required.
+Running post-processing for post 19
+Could not find the author for "STORE" (post #19)
+Post 19 was imported with author "harshadd", but could not be found
+Post 19 was marked for post-processing, but none was required.
+Running post-processing for post 21
+Could not find the author for "MY ACCOUNT" (post #21)
+Post 21 was imported with author "harshadd", but could not be found
+Post 21 was marked for post-processing, but none was required.
+Running post-processing for post 45
+Could not find the author for "Old Lady Cactus" (post #45)
+Post 45 was imported with author "harshadd", but could not be found
+Post 45 was marked for post-processing, but none was required.
+Running post-processing for post 51
+Could not find the author for "Mini San Pedro Cactus" (post #51)
+Post 51 was imported with author "harshadd", but could not be found
+Post 51 was marked for post-processing, but none was required.
+Running post-processing for post 52
+Could not find the author for "Cleistocactus" (post #52)
+Post 52 was imported with author "harshadd", but could not be found
+Post 52 was marked for post-processing, but none was required.
+Running post-processing for post 53
+Could not find the author for "Ball Cactus" (post #53)
+Post 53 was imported with author "harshadd", but could not be found
+Post 53 was marked for post-processing, but none was required.
+Running post-processing for post 80
+Could not find the author for "Star Cactus" (post #80)
+Post 80 was imported with author "harshadd", but could not be found
+Post 80 was marked for post-processing, but none was required.
+Running post-processing for post 81
+Could not find the author for "Mini Astrophytum" (post #81)
+Post 81 was imported with author "harshadd", but could not be found
+Post 81 was marked for post-processing, but none was required.
+Running post-processing for post 82
+Could not find the author for "Rattle Snake Tail" (post #82)
+Post 82 was imported with author "harshadd", but could not be found
+Post 82 was marked for post-processing, but none was required.
+Running post-processing for post 214
+Could not find the author for "PLANTS" (post #214)
+Post 214 was imported with author "harshadd", but could not be found
+Post 214 was marked for post-processing, but none was required.
+Running post-processing for post 215
+Could not find the author for "CACTUS" (post #215)
+Post 215 was imported with author "harshadd", but could not be found
+Post 215 was marked for post-processing, but none was required.
+Running post-processing for post 455
+Could not find the author for "CONTACT US" (post #455)
+Post 455 was imported with author "satishk", but could not be found
+Post 455 was marked for post-processing, but none was required.
+Running post-processing for post 456
+Could not find the author for "ABOUT US" (post #456)
+Post 456 was imported with author "satishk", but could not be found
+Post 456 was marked for post-processing, but none was required.
+Running post-processing for post 83
+Could not find the author for "Piorro Quisquam" (post #83)
+Post 83 was imported with author "harshadd", but could not be found
+Post 83 was marked for post-processing, but none was required.
+Running post-processing for post 84
+Could not find the author for "Green Soil Lotus" (post #84)
+Post 84 was imported with author "harshadd", but could not be found
+Post 84 was marked for post-processing, but none was required.
+Running post-processing for post 85
+Could not find the author for "Boncellensis Secullant" (post #85)
+Post 85 was imported with author "harshadd", but could not be found
+Post 85 was marked for post-processing, but none was required.
+Running post-processing for post 86
+Could not find the author for "Aluminum Plant" (post #86)
+Post 86 was imported with author "harshadd", but could not be found
+Post 86 was marked for post-processing, but none was required.
+Running post-processing for post 87
+Could not find the author for "Money Plant" (post #87)
+Post 87 was imported with author "harshadd", but could not be found
+Post 87 was marked for post-processing, but none was required.
+Running post-processing for post 472
+Could not find the author for "Order &ndash; February 6, 2019 @ 06:39 AM" (post #472)
+Post 472 was imported with author "brainstormforce", but could not be found
+Post 472 was marked for post-processing, but none was required.
+Running post-processing for post 475
+Could not find the author for "Order &ndash; February 11, 2019 @ 12:14 PM" (post #475)
+Post 475 was imported with author "brainstormforce", but could not be found
+Post 475 was marked for post-processing, but none was required.
+Running post-processing for post 478
+Could not find the author for "Order &ndash; February 17, 2019 @ 06:06 AM" (post #478)
+Post 478 was imported with author "brainstormforce", but could not be found
+Post 478 was marked for post-processing, but none was required.
+Running post-processing for post 481
+Could not find the author for "Order &ndash; February 21, 2019 @ 11:13 AM" (post #481)
+Post 481 was imported with author "brainstormforce", but could not be found
+Post 481 was marked for post-processing, but none was required.
+Running post-processing for post 483
+Could not find the author for "Order &ndash; February 26, 2019 @ 12:19 AM" (post #483)
+Post 483 was imported with author "brainstormforce", but could not be found
+Post 483 was marked for post-processing, but none was required.
+Running post-processing for post 484
+Could not find the author for "Order &ndash; March 1, 2019 @ 10:28 AM" (post #484)
+Post 484 was imported with author "brainstormforce", but could not be found
+Post 484 was marked for post-processing, but none was required.
+Running post-processing for post 487
+Could not find the author for "Order &ndash; March 7, 2019 @ 09:19 AM" (post #487)
+Post 487 was imported with author "brainstormforce", but could not be found
+Post 487 was marked for post-processing, but none was required.
+Could not find the author for comment #2
+Comment 2 was imported with author 2, but could not be found
+Could not find the author for comment #3
+Comment 3 was imported with author 2, but could not be found
+Could not find the author for comment #4
+Comment 4 was imported with author 2, but could not be found
+Could not find the author for comment #6
+Comment 6 was imported with author 2, but could not be found
+Could not find the author for comment #7
+Comment 7 was imported with author 2, but could not be found
+Could not find the author for comment #8
+Comment 8 was imported with author 2, but could not be found
+Could not find the author for comment #9
+Comment 9 was imported with author 2, but could not be found
+Could not find the author for comment #10
+Comment 10 was imported with author 2, but could not be found
+Could not find the author for comment #11
+Comment 11 was imported with author 2, but could not be found
+Could not find the author for comment #12
+Comment 12 was imported with author 2, but could not be found
+Could not find the author for comment #13
+Comment 13 was imported with author 2, but could not be found
+Could not find the author for comment #15
+Comment 15 was imported with author 2, but could not be found
+
+---
+
+3. Imported "Site Options"  - 09:27:11 UTC
+
+---
+
+4. Importing "Widgets"  - 09:27:13 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 09:27:15 UTC

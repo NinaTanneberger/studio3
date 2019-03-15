@@ -1,0 +1,12 @@
+2019-03-15T10:13:40+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/theme-update/class-astra-theme-update.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 22
+
+2019-03-15T10:22:24+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/theme-update/class-astra-theme-update.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 22
+
+2019-03-15T10:22:43+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/theme-update/class-astra-theme-update.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 22
+
+2019-03-15T10:24:20+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/theme-update/class-astra-theme-update.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 22
+
+2019-03-15T10:24:43+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/theme-update/class-astra-pb-compatibility.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 23
+
+2019-03-15T10:24:59+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\GitHub\studio3\wordpress/wp-content/themes/twentyseventeen/inc/core/class-astra-theme-options.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\GitHub\studio3\wordpress\wp-content\themes\astra-child\functions.php on line 28
+

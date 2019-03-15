@@ -1,0 +1,329 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.2
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:35:34 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 09:35:36 UTC
+
+---
+
+2. Importing "XML"  - 09:35:40 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Media "
+				cactus4-free-img		" already exists.
+Media "
+				cactus2-free-img		" already exists.
+Media "
+				cactus1-free-img		" already exists.
+Media "
+				cactus3-free-img		" already exists.
+Media "
+				cactus5-free-img		" already exists.
+Media "
+				cactus6-free-img		" already exists.
+Media "
+				plant1-free-img		" already exists.
+Media "
+				plant2-free-img		" already exists.
+Media "
+				plant3-free-img		" already exists.
+Media "
+				plant4-free-img		" already exists.
+Media "
+				plant5-free-img		" already exists.
+Media "
+				plant6-free-img		" already exists.
+Media "
+				quote-free-img		" already exists.
+Media "
+				user1-free-img		" already exists.
+Media "
+				user2-free-img		" already exists.
+Media "
+				user3-free-img		" already exists.
+Media "
+				home-bg2-free-img		" already exists.
+Media "
+				plant1-free-img		" already exists.
+Media "
+				plant2-free-img		" already exists.
+Media "
+				about-bg-free-img		" already exists.
+Navigation Menu Item "
+				HOME		" already exists.
+Navigation Menu Item "
+						" already exists.
+Media "
+				bg3-free-img		" already exists.
+Media "
+				bg4-free-img		" already exists.
+Media "
+				mate1-free-img		" already exists.
+Media "
+				mate2-free-img		" already exists.
+Media "
+				mate3-free-img		" already exists.
+Media "
+				cat1-free-img		" already exists.
+Media "
+				contact-bg-free-img		" already exists.
+Media "
+				cat2-free-img		" already exists.
+Media "
+				cat3-free-img		" already exists.
+Media "
+				demo-screenshot-free-img		" already exists.
+Imported "
+				Site Footer		" (Elementor Header Footer)
+Post 285 remapped to 501
+Media "
+				floral-divider-free-img		" already exists.
+Media "
+				floral1-divider-free-img		" already exists.
+Media "
+				logo@2x-free-img		" already exists.
+Media "
+				logo-free-img		" already exists.
+Media "
+				logo1@2x-free-img		" already exists.
+Media "
+				logo1-free-img		" already exists.
+Media "
+				plant-store-fb		" already exists.
+Page "
+				Cart		" already exists.
+Page "
+				Checkout		" already exists.
+Page "
+				My account		" already exists.
+Page "
+				Home		" already exists.
+Page "
+				About Us		" already exists.
+Page "
+				Store		" already exists.
+Page "
+				Contact Us		" already exists.
+Navigation Menu Item "
+				STORE		" already exists.
+Navigation Menu Item "
+				MY ACCOUNT		" already exists.
+Imported "
+				Old Lady Cactus		" (Product)
+Post 45 remapped to 502
+Imported "
+				Mini San Pedro Cactus		" (Product)
+Post 51 remapped to 503
+Imported "
+				Cleistocactus		" (Product)
+Post 52 remapped to 504
+Imported "
+				Ball Cactus		" (Product)
+Post 53 remapped to 505
+Imported "
+				Star Cactus		" (Product)
+Post 80 remapped to 506
+Imported "
+				Mini Astrophytum		" (Product)
+Post 81 remapped to 507
+Imported "
+				Rattle Snake Tail		" (Product)
+Post 82 remapped to 508
+Navigation Menu Item "
+				PLANTS		" already exists.
+Navigation Menu Item "
+				CACTUS		" already exists.
+Navigation Menu Item "
+				CONTACT US		" already exists.
+Navigation Menu Item "
+				ABOUT US		" already exists.
+Imported "
+				Piorro Quisquam		" (Product)
+Post 83 remapped to 509
+Imported "
+				Green Soil Lotus		" (Product)
+Post 84 remapped to 510
+Imported "
+				Boncellensis Secullant		" (Product)
+Post 85 remapped to 511
+Imported "
+				Aluminum Plant		" (Product)
+Post 86 remapped to 512
+Imported "
+				Money Plant		" (Product)
+Post 87 remapped to 513
+Imported "
+				Order – February 6, 2019 @ 06:39 AM		" (Order)
+Post 470 remapped to 514
+Imported "
+				Order – February 11, 2019 @ 12:14 PM		" (Order)
+Post 475 remapped to 515
+Imported "
+				Order – February 17, 2019 @ 06:06 AM		" (Order)
+Post 478 remapped to 516
+Imported "
+				Order – February 21, 2019 @ 11:13 AM		" (Order)
+Post 481 remapped to 517
+Imported "
+				Order – February 26, 2019 @ 12:19 AM		" (Order)
+Post 483 remapped to 518
+Imported "
+				Order – March 1, 2019 @ 10:28 AM		" (Order)
+Post 484 remapped to 519
+Imported "
+				Order – March 7, 2019 @ 09:19 AM		" (Order)
+Post 487 remapped to 520
+Running post-processing for post 501
+Could not find the author for "Site Footer" (post #501)
+Post 501 was imported with author "harshadd", but could not be found
+Post 501 was marked for post-processing, but none was required.
+Running post-processing for post 502
+Could not find the author for "Old Lady Cactus" (post #502)
+Post 502 was imported with author "harshadd", but could not be found
+Post 502 was marked for post-processing, but none was required.
+Running post-processing for post 503
+Could not find the author for "Mini San Pedro Cactus" (post #503)
+Post 503 was imported with author "harshadd", but could not be found
+Post 503 was marked for post-processing, but none was required.
+Running post-processing for post 504
+Could not find the author for "Cleistocactus" (post #504)
+Post 504 was imported with author "harshadd", but could not be found
+Post 504 was marked for post-processing, but none was required.
+Running post-processing for post 505
+Could not find the author for "Ball Cactus" (post #505)
+Post 505 was imported with author "harshadd", but could not be found
+Post 505 was marked for post-processing, but none was required.
+Running post-processing for post 506
+Could not find the author for "Star Cactus" (post #506)
+Post 506 was imported with author "harshadd", but could not be found
+Post 506 was marked for post-processing, but none was required.
+Running post-processing for post 507
+Could not find the author for "Mini Astrophytum" (post #507)
+Post 507 was imported with author "harshadd", but could not be found
+Post 507 was marked for post-processing, but none was required.
+Running post-processing for post 508
+Could not find the author for "Rattle Snake Tail" (post #508)
+Post 508 was imported with author "harshadd", but could not be found
+Post 508 was marked for post-processing, but none was required.
+Running post-processing for post 509
+Could not find the author for "Piorro Quisquam" (post #509)
+Post 509 was imported with author "harshadd", but could not be found
+Post 509 was marked for post-processing, but none was required.
+Running post-processing for post 510
+Could not find the author for "Green Soil Lotus" (post #510)
+Post 510 was imported with author "harshadd", but could not be found
+Post 510 was marked for post-processing, but none was required.
+Running post-processing for post 511
+Could not find the author for "Boncellensis Secullant" (post #511)
+Post 511 was imported with author "harshadd", but could not be found
+Post 511 was marked for post-processing, but none was required.
+Running post-processing for post 512
+Could not find the author for "Aluminum Plant" (post #512)
+Post 512 was imported with author "harshadd", but could not be found
+Post 512 was marked for post-processing, but none was required.
+Running post-processing for post 513
+Could not find the author for "Money Plant" (post #513)
+Post 513 was imported with author "harshadd", but could not be found
+Post 513 was marked for post-processing, but none was required.
+Running post-processing for post 514
+Could not find the author for "Order &ndash; February 6, 2019 @ 06:39 AM" (post #514)
+Post 514 was imported with author "brainstormforce", but could not be found
+Post 514 was marked for post-processing, but none was required.
+Running post-processing for post 515
+Could not find the author for "Order &ndash; February 11, 2019 @ 12:14 PM" (post #515)
+Post 515 was imported with author "brainstormforce", but could not be found
+Post 515 was marked for post-processing, but none was required.
+Running post-processing for post 516
+Could not find the author for "Order &ndash; February 17, 2019 @ 06:06 AM" (post #516)
+Post 516 was imported with author "brainstormforce", but could not be found
+Post 516 was marked for post-processing, but none was required.
+Running post-processing for post 517
+Could not find the author for "Order &ndash; February 21, 2019 @ 11:13 AM" (post #517)
+Post 517 was imported with author "brainstormforce", but could not be found
+Post 517 was marked for post-processing, but none was required.
+Running post-processing for post 518
+Could not find the author for "Order &ndash; February 26, 2019 @ 12:19 AM" (post #518)
+Post 518 was imported with author "brainstormforce", but could not be found
+Post 518 was marked for post-processing, but none was required.
+Running post-processing for post 519
+Could not find the author for "Order &ndash; March 1, 2019 @ 10:28 AM" (post #519)
+Post 519 was imported with author "brainstormforce", but could not be found
+Post 519 was marked for post-processing, but none was required.
+Running post-processing for post 520
+Could not find the author for "Order &ndash; March 7, 2019 @ 09:19 AM" (post #520)
+Post 520 was imported with author "brainstormforce", but could not be found
+Post 520 was marked for post-processing, but none was required.
+Could not find the author for comment #23
+Comment 23 was imported with author 2, but could not be found
+Could not find the author for comment #24
+Comment 24 was imported with author 2, but could not be found
+Could not find the author for comment #25
+Comment 25 was imported with author 2, but could not be found
+Could not find the author for comment #27
+Comment 27 was imported with author 2, but could not be found
+Could not find the author for comment #28
+Comment 28 was imported with author 2, but could not be found
+Could not find the author for comment #29
+Comment 29 was imported with author 2, but could not be found
+Could not find the author for comment #30
+Comment 30 was imported with author 2, but could not be found
+Could not find the author for comment #31
+Comment 31 was imported with author 2, but could not be found
+Could not find the author for comment #32
+Comment 32 was imported with author 2, but could not be found
+Could not find the author for comment #33
+Comment 33 was imported with author 2, but could not be found
+Could not find the author for comment #34
+Comment 34 was imported with author 2, but could not be found
+Could not find the author for comment #36
+Comment 36 was imported with author 2, but could not be found
+
+---
+
+3. Imported "Site Options"  - 09:35:52 UTC
+
+---
+
+4. Importing "Widgets"  - 09:35:54 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 09:35:56 UTC
