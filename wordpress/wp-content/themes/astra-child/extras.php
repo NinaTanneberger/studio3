@@ -104,7 +104,6 @@ if ( ! function_exists( 'astra_body_classes' ) ) {
 			$classes[] = 'ast-header-custom-item-inside';
 		}
 
-		$classes[] = 'nina-theme';
 		return $classes;
 	}
 }
