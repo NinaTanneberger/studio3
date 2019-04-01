@@ -30,3 +30,18 @@ color: #FFFFFF;
 .nina-theme img.main-logo {
 
 }
+
+body {
+	background-color:#262027 !important;
+}
+
+h2 {
+color: #FFFFFF !important;
+font-family: 'Rock Salt', cursive !important;
+font-style: normal;
+font-weight: normal;
+font-size: 5vw !important;
+line-height: normal;
+padding: 20px;
+text-shadow: 0px 0px 20px #FF008A, 0px 0px 30px #FF008A;
+}
