@@ -1,0 +1,10 @@
+2019-04-04T03:57:58+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in F:\xampp\htdocs\Github\studio3\wordpress\wp-content\plugins\html5-jquery-audio-player\playlist\add_playlist.php:20
+Stack trace:
+#0 F:\xampp\htdocs\Github\studio3\wordpress\wp-content\plugins\html5-jquery-audio-player\index.php(62): include()
+#1 F:\xampp\htdocs\Github\studio3\wordpress\wp-includes\class-wp-hook.php(286): wp_hmp_playlist('')
+#2 F:\xampp\htdocs\Github\studio3\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 F:\xampp\htdocs\Github\studio3\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 F:\xampp\htdocs\Github\studio3\wordpress\wp-admin\admin.php(253): do_action('html5-player_pa...')
+#5 {main}
+  thrown in F:\xampp\htdocs\Github\studio3\wordpress\wp-content\plugins\html5-jquery-audio-player\playlist\add_playlist.php on line 20
+

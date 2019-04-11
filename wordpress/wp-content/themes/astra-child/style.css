@@ -45,3 +45,11 @@ line-height: normal;
 padding: 20px;
 text-shadow: 0px 0px 20px #FF008A, 0px 0px 30px #FF008A;
 }
+
+/*.elementor-element-8e17abe {
+	box-shadow: 0px 0px 20px green, 0px 0px 30px green;
+}*/
+
+.g-background-default {
+	background-color: black !important;
+}
